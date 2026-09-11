@@ -35,8 +35,7 @@ Of course, there are hardware limits. These are consoles that are more than a de
 
 Here are the Bytecode Versions that Cinnamon supports
 
-* Bytecode Version 16
-* Bytecode Version 17
+* Bytecode Version 16 (use the SURVEY_PROGRAM)
 
 However, that doesn't mean that a game that uses a compatible version WILL run! The bytecode support is still a WIP, and Cinnamon may have quirks that the original GameMaker: Studio runner may not have.
 
